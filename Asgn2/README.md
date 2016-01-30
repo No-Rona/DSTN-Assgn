@@ -2,17 +2,14 @@ Recompile 64bit Linux Kernel
 ========================
 
 
-----------
-
 
 > **Data Storage Technologies and Networks**  
 > **Assignment 2**
 > 
 > *Name* :        **Rohan Noronha**  
-> *ID No* :        **2012C6PS600G **
+> *ID No* :        **2012C6PS600G**
 
 
-----------
 
 
 Steps followed:
